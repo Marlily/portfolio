@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400 800;
+    font-display: swap;
+    src: url('../fonts/Inter.woff2') format('woff2'),
+         url('../fonts/Inter.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Gabarito';
+    font-style: normal;
+    font-weight: 400 800;
+    font-display: swap;
+    src: url('../fonts/Gabarito.woff2') format('woff2'),
+         url('../fonts/Gabarito.ttf') format('truetype');
+}

@@ -1,0 +1,54 @@
+@import "tailwindcss";
+@import "./fonts.css";
+@import "@glidejs/glide/dist/css/glide.core.min.css";
+
+@theme {
+    --font-sans: 'Manrope', sans-serif;
+
+    /* Orange */
+    --color-orange-50: #FCF2EB;
+    --color-orange-100: #F6D8BF;
+    --color-orange-200: #F2C5A1;
+    --color-orange-300: #ECAA76;
+    --color-orange-400: #E9995B;
+    --color-orange-500: #E38032;
+    --color-orange-600: #CF742E;
+    --color-orange-700: #A15B24;
+    --color-orange-800: #7D461C;
+    --color-orange-900: #5F3615;
+
+    /* Blue */
+    --color-blue-50: #E6EAED;
+    --color-blue-100: #B1BDC7;
+    --color-blue-200: #8B9DAC;
+    --color-blue-300: #567086;
+    --color-blue-400: #35556E;
+    --color-blue-500: #032A4A;
+    --color-blue-600: #032643;
+    --color-blue-700: #021E35;
+    --color-blue-800: #021729;
+    --color-blue-900: #01121F;
+
+    /* Blue Gray */
+    --color-blue-gray-50: #EAEAEB;
+    --color-blue-gray-100: #BDBDC1;
+    --color-blue-gray-200: #9D9DA3;
+    --color-blue-gray-300: #707179;
+    --color-blue-gray-400: #55555F;
+    --color-blue-gray-500: #2A2B37;
+    --color-blue-gray-600: #262732;
+    --color-blue-gray-700: #1E1F27;
+    --color-blue-gray-800: #17181E;
+    --color-blue-gray-900: #121217;
+
+    /* Semantic aliases */
+    --color-bg: #F8F8F9;
+    --color-main: var(--color-orange-500);
+    --color-main-hover: var(--color-orange-700);
+    --color-dark: var(--color-blue-gray-500);
+    --color-light: var(--color-orange-50);
+}
+
+@import "./base.css";
+@import "./components.css";
+@import "./utilities.css";

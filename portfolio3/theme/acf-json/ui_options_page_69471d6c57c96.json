@@ -1,0 +1,22 @@
+{
+    "key": "ui_options_page_69471d6c57c96",
+    "title": "Menu główne",
+    "active": true,
+    "menu_order": 0,
+    "page_title": "Menu główne",
+    "menu_slug": "menu-glowne",
+    "parent_slug": "none",
+    "advanced_configuration": false,
+    "icon_url": "",
+    "menu_title": "",
+    "position": null,
+    "redirect": false,
+    "description": "",
+    "update_button": "Aktualizuj",
+    "updated_message": "Ustawienia zostały zaktualizowane",
+    "capability": "edit_posts",
+    "data_storage": "options",
+    "post_id": "",
+    "autoload": false,
+    "modified": 1766268268
+}

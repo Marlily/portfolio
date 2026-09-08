@@ -1,0 +1,13 @@
+@layer base {
+    html {
+        @apply scroll-smooth ;
+    }
+
+    body {
+        @apply font-inter text-white;
+    }
+
+    .container-content {
+        @apply max-w-364 2xl:max-w-416 mx-auto px-4;
+    }
+}  

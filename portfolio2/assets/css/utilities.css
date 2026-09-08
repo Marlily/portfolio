@@ -1,0 +1,20 @@
+@layer utilities {
+    .reveal {
+        opacity: 0;
+        translate: 0 2rem;
+        transition: opacity 0.7s ease-out, translate 0.7s ease-out;
+    }
+
+    .reveal.is-visible {
+        opacity: 1;
+        translate: 0 0;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        .reveal {
+            opacity: 1;
+            translate: 0 0;
+            transition: none;
+        }
+    }
+}

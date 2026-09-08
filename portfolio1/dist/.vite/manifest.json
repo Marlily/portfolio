@@ -1,0 +1,39 @@
+{
+  "assets/fonts/Gabarito.ttf": {
+    "file": "assets/Gabarito-MX19l2j3.ttf",
+    "src": "assets/fonts/Gabarito.ttf"
+  },
+  "assets/fonts/Gabarito.woff2": {
+    "file": "assets/Gabarito-D5nTMNlu.woff2",
+    "src": "assets/fonts/Gabarito.woff2"
+  },
+  "assets/fonts/Inter.ttf": {
+    "file": "assets/Inter-c8O0ljhh.ttf",
+    "src": "assets/fonts/Inter.ttf"
+  },
+  "assets/fonts/Inter.woff2": {
+    "file": "assets/Inter-FIwubZjA.woff2",
+    "src": "assets/fonts/Inter.woff2"
+  },
+  "assets/js/app.js": {
+    "file": "assets/app-Cyj5fNUG.js",
+    "name": "app",
+    "src": "assets/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-C9BDiXVG.css"
+    ],
+    "assets": [
+      "assets/Inter-FIwubZjA.woff2",
+      "assets/Inter-c8O0ljhh.ttf",
+      "assets/Gabarito-D5nTMNlu.woff2",
+      "assets/Gabarito-MX19l2j3.ttf"
+    ]
+  },
+  "assets/js/nav.js": {
+    "file": "assets/nav-BkBJt-mu.js",
+    "name": "nav",
+    "src": "assets/js/nav.js",
+    "isEntry": true
+  }
+}

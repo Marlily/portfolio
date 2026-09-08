@@ -1,0 +1,85 @@
+{
+    "key": "group_6772a000product_benefits",
+    "title": "Zalety produktu",
+    "fields": [
+        {
+            "key": "field_6772a010benefit_reusable",
+            "label": "Wielokrotnego użytku",
+            "name": "product_benefit_reusable",
+            "aria-label": "",
+            "type": "true_false",
+            "instructions": "Zaznacz, aby wyświetlić kafelek „Wielokrotnego użytku”.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_6772a020benefit_zero_waste",
+            "label": "0% odpadów",
+            "name": "product_benefit_zero_waste",
+            "aria-label": "",
+            "type": "true_false",
+            "instructions": "Zaznacz, aby wyświetlić kafelek „0% odpadów”.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_6772a030benefit_odor_absorption",
+            "label": "Pochłania nieprzyjemne zapachy",
+            "name": "product_benefit_odor_absorption",
+            "aria-label": "",
+            "type": "true_false",
+            "instructions": "Zaznacz, aby wyświetlić kafelek „Pochłania nieprzyjemne zapachy”.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "product"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1766523176
+}

@@ -1,0 +1,54 @@
+@import "tailwindcss";
+@import "./fonts.css";
+@import "@glidejs/glide/dist/css/glide.core.min.css";
+@import "aos/dist/aos.css";
+
+@theme {
+    /* Orange */
+    --color-orange-50: #f9f1ea;
+    --color-orange-100: #ebd2be;
+    --color-orange-200: #e2bc9f;
+    --color-orange-300: #d49e73;
+    --color-orange-400: #cc8b58;
+    --color-orange-500: #bf6e2e;
+    --color-orange-600: #ae642a;
+    --color-orange-700: #884e21;
+    --color-orange-800: #693d19;
+    --color-orange-900: #502e13;
+
+    /* Blue */
+    --color-blue-50: #eaebec;
+    --color-blue-100: #bdc0c3;
+    --color-blue-200: #9da2a5;
+    --color-blue-300: #70787c;
+    --color-blue-400: #555d63;
+    --color-blue-500: #2a353c;
+    --color-blue-600: #263037;
+    --color-blue-700: #1e262b;
+    --color-blue-800: #171d21;
+    --color-blue-900: #121619;
+    --color-blue-950: #0D0D0D;
+
+    /* Green */
+    --color-green-50: #fdfcfb;
+    --color-green-100: #f8f6f1;
+    --color-green-200: #f5f2ea;
+    --color-green-300: #f1ece1;
+    --color-green-400: #eee9db;
+    --color-green-500: #eae3d2;
+    --color-green-600: #d5cfbf;
+    --color-green-700: #a6a195;
+    --color-green-800: #817d74;
+    --color-green-900: #625f58;
+
+    --color-dark-bg: #111;
+
+    --font-inter: 'Inter', sans-serif;
+    --font-gabarito: 'Gabarito', sans-serif;
+
+    /* Breakpoints */
+    --breakpoint-3xl: 120rem;
+}
+ 
+@import "./base.css";
+@import "./components.css";
