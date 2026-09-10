@@ -1,7 +1,0 @@
-<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="development">
-<rect id="Rectangle 4" width="70" height="70" rx="17" fill="var(--fill-0, #F15A2B)"/>
-<path id="Vector" d="M27 23V27H23V23H27ZM21 21V29H29V21H21ZM37 26V30H33V26H37ZM31 24V32H39V24H31ZM27 35V39H23V35H27ZM21 33V41H29V33H21Z" fill="var(--fill-0, white)"/>
-<path id="Vector_2" d="M41 29V35H35V41H29V49H49V29H41ZM37 37H41V41H37V37ZM35 47H31V43H35V47ZM41 47H37V43H41V47ZM47 47H43V43H47V47ZM47 41H43V37H47V41ZM43 35V31H47V35H43Z" fill="var(--fill-0, white)"/>
-</g>
-</svg>
